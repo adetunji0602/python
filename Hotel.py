@@ -22,7 +22,7 @@ i = 0
 # Home Function
 def Home():
 	
-	print("\t\t\t\t\t\t WELCOME TO HOTEL ANCASA\n")
+	print("\t\t\t\t\t\t WELCOME TO HOTEL Nupath Tech\n")
 	print("\t\t\t 1 Booking\n")
 	print("\t\t\t 2 Rooms Info\n")
 	print("\t\t\t 3 Room Service(Menu Card)\n")
